@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\bin\Debug\FormDangnhap.exe.config
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\bin\Debug\FormDangnhap.exe
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\bin\Debug\FormDangnhap.pdb
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\obj\Debug\FormDangnhap.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\obj\Debug\FormDangnhap.Form1.resources
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\obj\Debug\FormDangnhap.Properties.Resources.resources
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\obj\Debug\FormDangnhap.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\obj\Debug\FormDangnhap.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\obj\Debug\FormDangnhap.exe
+C:\Users\HP\source\repos\FormDangnhap\FormDangnhap\obj\Debug\FormDangnhap.pdb
